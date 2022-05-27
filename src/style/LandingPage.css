@@ -1,0 +1,44 @@
+.banner {
+  height: 100vh;
+  background: url("../assets/images/bg/main.jpg");
+  background-size: cover;
+}
+
+.intro {
+  height: 300px;
+  display: flex;
+  text-align: center;
+  justify-content: end;
+  align-items: end;
+}
+
+.title {
+  font-size: 3rem;
+  font-weight: 800;
+  line-height: 1;
+  text-shadow: 5px 5px black;
+  letter-spacing: 5px;
+}
+
+.populer {
+  height: auto;
+  background: url("../assets/images/bg/populer.jpg");
+  background-size: cover;
+}
+
+.animelist {
+  height: auto;
+  background: url("../assets/images/bg/animelist.jpg");
+  background-size: cover;
+}
+
+.movieImage {
+  height: auto;
+  background-color: black;
+  margin: 5px;
+  padding: 5px;
+}
+
+.images {
+  height: 500px;
+}
